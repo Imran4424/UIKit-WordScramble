@@ -12,3 +12,6 @@
 ## NSRange
 ## validating a word from dictionary
 ## Validating a word if it is valid english word or not
+## Left bar button item
+## Bar button item from SF symbols
+## Restart the game
